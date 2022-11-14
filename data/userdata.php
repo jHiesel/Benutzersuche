@@ -1,6 +1,6 @@
 <?php
 
-$data = [[
+return $data = [[
     "id" => 1,
     "firstname" => "Hamnet",
     "lastname" => "Fice",
